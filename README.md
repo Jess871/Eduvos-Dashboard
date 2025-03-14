@@ -41,3 +41,7 @@ processes it by the chosen category, and generates the corresponding bar graph.
 tools, technologies, or fields related to the selected category.
 3. If "Employment Rate of Graduates according to their Study Field" is selected, 
 the bar plot will show the employment rate of graduates from their various study fields.
+
+
+## Link
+Access the dashboard here: https://jessicabawden.shinyapps.io/EduvosDashboard/
